@@ -100,7 +100,7 @@ def main():
     # Initialize ttkbootstrap root
     root = ttk.Window(themename="flatly")  # Changed theme to "flatly" for light gray background
     root.configure(bg="#f0f0f0")  # Set light gray background
-    root.title("Timecode Calculator")
+    root.title("ednvy Timecode Calculator")
     root.geometry("600x400")
     root.minsize(600, 400)  # Set the minimum size of the window
 
